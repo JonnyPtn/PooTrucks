@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<modDesc descVersion="53">
+	<author>Jonny</author>
+	<version>0.0.0.1</version>
+	<title>
+		<en>Poo Trucks</en>
+	</title>
+	<description>
+		<en>
+			Trucks of Poo
+		</en>
+
+	</description>
+	<iconFilename>icon_blank.dds</iconFilename>
+	<extraSourceFiles>
+     <sourceFile filename="PooTrucks.lua" />
+   	</extraSourceFiles>
+	<multiplayer supported="true" />
+</modDesc>
